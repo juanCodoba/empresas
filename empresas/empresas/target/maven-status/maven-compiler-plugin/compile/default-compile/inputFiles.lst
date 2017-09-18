@@ -1,0 +1,11 @@
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/rest/service/EmpresaRest.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/rest/service/ApplicationConfig.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/sessions/EmpresaFacade.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/sessions/RegimenEmpresaFacade.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/entities/RegimenEmpresa.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/entities/Empresa.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/sessions/AbstractFacade.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/sessions/DetalleComprasFacade.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/rest/service/RegimenEmpresaRest.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/entities/DetalleCompras.java
+/home/adsi1199561/Imágenes/empresas/empresas/src/main/java/co/javaee/byron/jpa/empresas/rest/service/DetalleComprasRest.java

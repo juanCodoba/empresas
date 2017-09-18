@@ -1,0 +1,14 @@
+co/javaee/byron/jpa/empresas/entities/Empresa.class
+co/javaee/byron/jpa/empresas/entities/DetalleCompras.class
+co/javaee/byron/jpa/empresas/rest/service/ApplicationConfig.class
+co/javaee/byron/jpa/empresas/rest/service/EmpresaRest.class
+co/javaee/byron/jpa/empresas/sessions/DetalleComprasFacade.class
+co/javaee/byron/jpa/empresas/sessions/RegimenEmpresaFacade.class
+co/javaee/byron/jpa/empresas/entities/RegimenEmpresa_.class
+co/javaee/byron/jpa/empresas/sessions/EmpresaFacade.class
+co/javaee/byron/jpa/empresas/rest/service/DetalleComprasRest.class
+co/javaee/byron/jpa/empresas/rest/service/RegimenEmpresaRest.class
+co/javaee/byron/jpa/empresas/entities/DetalleCompras_.class
+co/javaee/byron/jpa/empresas/entities/Empresa_.class
+co/javaee/byron/jpa/empresas/sessions/AbstractFacade.class
+co/javaee/byron/jpa/empresas/entities/RegimenEmpresa.class
